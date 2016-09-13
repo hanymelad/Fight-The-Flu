@@ -14,4 +14,8 @@
      Android SDK 
      app folder
      smart phone 
+#get start
+              
+              
+      import the app folder into your Android Studio.
      
