@@ -1,5 +1,5 @@
-# Fight-The-Flu
-eduction app for childern
+# Fight-The-Flu;
+eduction app for childern;
 Where the child learns how to protect himself against infection from flu through the five ways, including
 Avoid handshake hands
 Avoid touching your nose
